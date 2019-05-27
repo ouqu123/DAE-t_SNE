@@ -1,2 +1,2 @@
-# DAE-t_SNE
+# DAE-t-SNE
 Single cell RNA sequencing visualization
